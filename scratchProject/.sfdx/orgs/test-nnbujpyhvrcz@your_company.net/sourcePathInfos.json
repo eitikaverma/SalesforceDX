@@ -1,0 +1,116 @@
+[
+    [
+        "D:\\SalesforceDX\\scratchProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499843160045,
+            "changeTime": 1499843160045,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\scratchProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499843160045,
+            "changeTime": 1499843160045,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499843236326,
+            "changeTime": 1499843236326,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499843160045,
+            "changeTime": 1499843160045,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499843271216,
+            "changeTime": 1499843271216,
+            "contentHash": "7c272c321a58fa984f6ef66db3370497c9c11ce3"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\scratchProject",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499843265140,
+            "changeTime": 1499843265140,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\classes\\ScratchController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\classes\\ScratchController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1499843271215,
+            "changeTime": 1499843271215,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\classes\\ScratchController.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\scratchProject\\force-app\\main\\default\\classes\\ScratchController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 956,
+            "modifiedTime": 1499843271216,
+            "changeTime": 1499843271216,
+            "contentHash": "28f38ab09fe64be6223ecd3e10e644894d4e2602"
+        }
+    ]
+]
